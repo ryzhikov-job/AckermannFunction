@@ -1,0 +1,15 @@
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/bin/Debug/net6.0/task2
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/bin/Debug/net6.0/task2.deps.json
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/bin/Debug/net6.0/task2.dll
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/bin/Debug/net6.0/task2.pdb
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/task2.dll
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/refint/task2.dll
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/task2.pdb
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/HomeWork9/task2/obj/Debug/net6.0/ref/task2.dll
